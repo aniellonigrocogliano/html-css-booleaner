@@ -1,0 +1,23 @@
+header {
+    background-color: rgb(16, 161, 205);
+    height: 55px;
+    background-image: url(../img/pattern.png);
+    background-size: 15%;
+    background-repeat: repeat;
+
+}
+.header-imagine{
+    height: 30px;
+    padding-top: 24px;
+}
+.color-grigio{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(100, 140, 140);
+    font-size: 15px;
+}
+.color-azzurro{
+    color: aqua;
+}
+.font-piccolo{
+    font-size: 10px;
+}
