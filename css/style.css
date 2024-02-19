@@ -45,3 +45,30 @@ table, th, td {
     border-collapse: collapse;
     font-family: Arial, Helvetica, sans-serif;
   }
+  h5{
+    color: gray;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+.prima-proposta{
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 180px;
+    width: 250px;    
+    color: white;
+    font-size: 25px;
+    text-align:center ;
+    font-weight: bold;
+}
+.seconda-proposta{
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 180px;
+    width: 250px;    
+    color: white;
+    font-size: 25px;
+    text-align:center ;
+    font-weight: bold;
+}
